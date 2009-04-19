@@ -134,7 +134,6 @@ public class SelectPoints extends MapActivity
     @Override
     protected boolean isRouteDisplayed()
     {
-        // TODO Auto-generated method stub
         return false;
     }
 
