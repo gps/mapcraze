@@ -137,6 +137,12 @@ public class SelectPoints extends MapActivity
         return false;
     }
 
+    @Override
+    protected boolean isLocationDisplayed()
+    {
+        return true;
+    }
+
     private static GeoPoint getGeoPointFromLocation(Location location)
     {
         Double lat = location.getLatitude() * 1E6;
