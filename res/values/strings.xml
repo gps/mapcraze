@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MapCraze</string>
+    <string name="app_name">Map Craze</string>
+    <string name="select_points">Select Points"</string>
+    <string name="done">Done</string>
+</resources>
